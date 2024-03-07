@@ -4,7 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="b6dc2e0a-092d-4eff-ad64-84aada240d97" name="Changes" comment="0.0.3&#10;To index.html - changed inputs to buttons.&#10;To script.js - changed the logout function.">
+    <list default="true" id="b6dc2e0a-092d-4eff-ad64-84aada240d97" name="Changes" comment="0.0.4&#10;To styles.css - Added styles for all elements.&#10;To script.js - Added behavior for navigation element.">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/scripts/script.js" beforeDir="false" afterPath="$PROJECT_DIR$/scripts/script.js" afterDir="false" />
@@ -27,30 +27,30 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="ProjectColorInfo"><![CDATA[{
-  "associatedIndex": 1
-}]]></component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 1
+}</component>
   <component name="ProjectId" id="2dLzLosQhXvLG3wcx4NVtmenTD6" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "DefaultHtmlFileTemplate": "HTML File",
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "WebServerToolWindowFactoryState": "false",
-    "git-widget-placeholder": "main",
-    "list.type.of.created.stylesheet": "CSS",
-    "node.js.detected.package.eslint": "true",
-    "node.js.detected.package.tslint": "true",
-    "node.js.selected.package.eslint": "(autodetect)",
-    "node.js.selected.package.tslint": "(autodetect)",
-    "vue.rearranger.settings.migration": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;DefaultHtmlFileTemplate&quot;: &quot;HTML File&quot;,
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
+    &quot;list.type.of.created.stylesheet&quot;: &quot;CSS&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
-}]]></component>
+}</component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
@@ -59,7 +59,8 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1709802092147</updated>
-      <workItem from="1709802093168" duration="21759000" />
+      <workItem from="1709802093168" duration="22064000" />
+      <workItem from="1709838565497" duration="8566000" />
     </task>
     <task id="LOCAL-00001" summary="0.0.0 - Initial&#10;Created a new project &quot;Valantis&quot;&#10;Added index.html&#10;Added styles.css&#10;Added script.js">
       <option name="closed" value="true" />
@@ -93,7 +94,15 @@
       <option name="project" value="LOCAL" />
       <updated>1709824390604</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="0.0.4&#10;To styles.css - Added styles for all elements.&#10;To script.js - Added behavior for navigation element.">
+      <option name="closed" value="true" />
+      <created>1709828017333</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1709828017333</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -115,6 +124,7 @@
     <MESSAGE value="0.0.1&#10;To index.html - added two scripts for calculate MD5HASH&#10;To script.js - added API with all parameters, added a function for generating TimeStamp, added a function for generating MD5HASH." />
     <MESSAGE value="0.0.2&#10;To index.html - added onload to body, added section with login form, added logout button.&#10;To script.js - added a function checkSession, added a function login, added section logout." />
     <MESSAGE value="0.0.3&#10;To index.html - changed inputs to buttons.&#10;To script.js - changed the logout function." />
-    <option name="LAST_COMMIT_MESSAGE" value="0.0.3&#10;To index.html - changed inputs to buttons.&#10;To script.js - changed the logout function." />
+    <MESSAGE value="0.0.4&#10;To styles.css - Added styles for all elements.&#10;To script.js - Added behavior for navigation element." />
+    <option name="LAST_COMMIT_MESSAGE" value="0.0.4&#10;To styles.css - Added styles for all elements.&#10;To script.js - Added behavior for navigation element." />
   </component>
 </project>
