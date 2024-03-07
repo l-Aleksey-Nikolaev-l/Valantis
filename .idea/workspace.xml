@@ -4,10 +4,11 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="b6dc2e0a-092d-4eff-ad64-84aada240d97" name="Changes" comment="0.0.2&#10;To index.html - added onload to body, added section with login form, added logout button.&#10;To script.js - added a function checkSession, added a function login, added section logout.">
+    <list default="true" id="b6dc2e0a-092d-4eff-ad64-84aada240d97" name="Changes" comment="0.0.3&#10;To index.html - changed inputs to buttons.&#10;To script.js - changed the logout function.">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/scripts/script.js" beforeDir="false" afterPath="$PROJECT_DIR$/scripts/script.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/styles/styles.css" beforeDir="false" afterPath="$PROJECT_DIR$/styles/styles.css" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -58,7 +59,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1709802092147</updated>
-      <workItem from="1709802093168" duration="18903000" />
+      <workItem from="1709802093168" duration="21759000" />
     </task>
     <task id="LOCAL-00001" summary="0.0.0 - Initial&#10;Created a new project &quot;Valantis&quot;&#10;Added index.html&#10;Added styles.css&#10;Added script.js">
       <option name="closed" value="true" />
@@ -84,7 +85,15 @@
       <option name="project" value="LOCAL" />
       <updated>1709823859273</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="0.0.3&#10;To index.html - changed inputs to buttons.&#10;To script.js - changed the logout function.">
+      <option name="closed" value="true" />
+      <created>1709824390604</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1709824390604</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -105,6 +114,7 @@
     <MESSAGE value="0.0.0 - Initial&#10;Created a new project &quot;Valantis&quot;&#10;Added index.html&#10;Added styles.css&#10;Added script.js" />
     <MESSAGE value="0.0.1&#10;To index.html - added two scripts for calculate MD5HASH&#10;To script.js - added API with all parameters, added a function for generating TimeStamp, added a function for generating MD5HASH." />
     <MESSAGE value="0.0.2&#10;To index.html - added onload to body, added section with login form, added logout button.&#10;To script.js - added a function checkSession, added a function login, added section logout." />
-    <option name="LAST_COMMIT_MESSAGE" value="0.0.2&#10;To index.html - added onload to body, added section with login form, added logout button.&#10;To script.js - added a function checkSession, added a function login, added section logout." />
+    <MESSAGE value="0.0.3&#10;To index.html - changed inputs to buttons.&#10;To script.js - changed the logout function." />
+    <option name="LAST_COMMIT_MESSAGE" value="0.0.3&#10;To index.html - changed inputs to buttons.&#10;To script.js - changed the logout function." />
   </component>
 </project>
