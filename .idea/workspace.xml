@@ -4,7 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="b6dc2e0a-092d-4eff-ad64-84aada240d97" name="Changes" comment="0.0.5&#10;To index.html - Added dataPanel with filterSection and dataTable.&#10;To styles.css - Added styles for all elements.&#10;To script.js - Added getData, addData and generateDataOptions functions.">
+    <list default="true" id="b6dc2e0a-092d-4eff-ad64-84aada240d97" name="Changes" comment="0.0.5&#10;To script.js - Added a showComponents functions. Changed checkSession, logIn, logOut functions.">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/scripts/script.js" beforeDir="false" afterPath="$PROJECT_DIR$/scripts/script.js" afterDir="false" />
@@ -62,7 +62,8 @@
       <workItem from="1709802093168" duration="22064000" />
       <workItem from="1709838565497" duration="8588000" />
       <workItem from="1709849015083" duration="3493000" />
-      <workItem from="1709852552278" duration="1389000" />
+      <workItem from="1709852552278" duration="1409000" />
+      <workItem from="1709885962399" duration="15306000" />
     </task>
     <task id="LOCAL-00001" summary="0.0.0 - Initial&#10;Created a new project &quot;Valantis&quot;&#10;Added index.html&#10;Added styles.css&#10;Added script.js">
       <option name="closed" value="true" />
@@ -112,7 +113,15 @@
       <option name="project" value="LOCAL" />
       <updated>1709847162712</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="0.0.5&#10;To script.js - Added a showComponents functions. Changed checkSession, logIn, logOut functions.">
+      <option name="closed" value="true" />
+      <created>1709853950597</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1709853950597</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -136,6 +145,7 @@
     <MESSAGE value="0.0.3&#10;To index.html - changed inputs to buttons.&#10;To script.js - changed the logout function." />
     <MESSAGE value="0.0.4&#10;To styles.css - Added styles for all elements.&#10;To script.js - Added behavior for navigation element." />
     <MESSAGE value="0.0.5&#10;To index.html - Added dataPanel with filterSection and dataTable.&#10;To styles.css - Added styles for all elements.&#10;To script.js - Added getData, addData and generateDataOptions functions." />
-    <option name="LAST_COMMIT_MESSAGE" value="0.0.5&#10;To index.html - Added dataPanel with filterSection and dataTable.&#10;To styles.css - Added styles for all elements.&#10;To script.js - Added getData, addData and generateDataOptions functions." />
+    <MESSAGE value="0.0.5&#10;To script.js - Added a showComponents functions. Changed checkSession, logIn, logOut functions." />
+    <option name="LAST_COMMIT_MESSAGE" value="0.0.5&#10;To script.js - Added a showComponents functions. Changed checkSession, logIn, logOut functions." />
   </component>
 </project>
