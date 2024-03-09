@@ -4,7 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="b6dc2e0a-092d-4eff-ad64-84aada240d97" name="Changes" comment="0.0.5&#10;To script.js - Added a showComponents functions. Changed checkSession, logIn, logOut functions.">
+    <list default="true" id="b6dc2e0a-092d-4eff-ad64-84aada240d97" name="Changes" comment="0.0.8&#10;To script.js - Added finalData variable, added a getIDs function, changed getData, generateDataOptions and addData functions.">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/scripts/script.js" beforeDir="false" afterPath="$PROJECT_DIR$/scripts/script.js" afterDir="false" />
@@ -63,7 +63,11 @@
       <workItem from="1709838565497" duration="8588000" />
       <workItem from="1709849015083" duration="3493000" />
       <workItem from="1709852552278" duration="1409000" />
-      <workItem from="1709885962399" duration="15306000" />
+      <workItem from="1709885962399" duration="16289000" />
+      <workItem from="1709904470875" duration="10053000" />
+      <workItem from="1709971321097" duration="8146000" />
+      <workItem from="1709979504469" duration="2988000" />
+      <workItem from="1710005430875" duration="1987000" />
     </task>
     <task id="LOCAL-00001" summary="0.0.0 - Initial&#10;Created a new project &quot;Valantis&quot;&#10;Added index.html&#10;Added styles.css&#10;Added script.js">
       <option name="closed" value="true" />
@@ -121,7 +125,31 @@
       <option name="project" value="LOCAL" />
       <updated>1709853950597</updated>
     </task>
-    <option name="localTasksCounter" value="8" />
+    <task id="LOCAL-00008" summary="0.0.6&#10;To index.html - Added font, added a columnNumber to dataTable, added a paginatorPanel.">
+      <option name="closed" value="true" />
+      <created>1709901518768</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1709901518768</updated>
+    </task>
+    <task id="LOCAL-00009" summary="0.0.7&#10;To styles.css - Added font, added style for the paginatorPanel, changed style for the filter inputs.">
+      <option name="closed" value="true" />
+      <created>1709901622216</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1709901622216</updated>
+    </task>
+    <task id="LOCAL-00010" summary="0.0.8&#10;To script.js - Added finalData variable, added a getIDs function, changed getData, generateDataOptions and addData functions.">
+      <option name="closed" value="true" />
+      <created>1709901765707</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1709901765707</updated>
+    </task>
+    <option name="localTasksCounter" value="11" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -146,6 +174,9 @@
     <MESSAGE value="0.0.4&#10;To styles.css - Added styles for all elements.&#10;To script.js - Added behavior for navigation element." />
     <MESSAGE value="0.0.5&#10;To index.html - Added dataPanel with filterSection and dataTable.&#10;To styles.css - Added styles for all elements.&#10;To script.js - Added getData, addData and generateDataOptions functions." />
     <MESSAGE value="0.0.5&#10;To script.js - Added a showComponents functions. Changed checkSession, logIn, logOut functions." />
-    <option name="LAST_COMMIT_MESSAGE" value="0.0.5&#10;To script.js - Added a showComponents functions. Changed checkSession, logIn, logOut functions." />
+    <MESSAGE value="0.0.6&#10;To index.html - Added font, added a columnNumber to dataTable, added a paginatorPanel." />
+    <MESSAGE value="0.0.7&#10;To styles.css - Added font, added style for the paginatorPanel, changed style for the filter inputs." />
+    <MESSAGE value="0.0.8&#10;To script.js - Added finalData variable, added a getIDs function, changed getData, generateDataOptions and addData functions." />
+    <option name="LAST_COMMIT_MESSAGE" value="0.0.8&#10;To script.js - Added finalData variable, added a getIDs function, changed getData, generateDataOptions and addData functions." />
   </component>
 </project>
