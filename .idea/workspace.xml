@@ -4,11 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="b6dc2e0a-092d-4eff-ad64-84aada240d97" name="Changes" comment="0.0.14&#10;In script.js - Removed generateLoginOptions">
+    <list default="true" id="b6dc2e0a-092d-4eff-ad64-84aada240d97" name="Changes" comment="0.1.0 - Release">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/scripts/script.js" beforeDir="false" afterPath="$PROJECT_DIR$/scripts/script.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/styles/styles.css" beforeDir="false" afterPath="$PROJECT_DIR$/styles/styles.css" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -69,7 +67,7 @@
       <workItem from="1709979504469" duration="2988000" />
       <workItem from="1710005430875" duration="3145000" />
       <workItem from="1710009891010" duration="64742000" />
-      <workItem from="1710098061954" duration="6638000" />
+      <workItem from="1710098061954" duration="15685000" />
     </task>
     <task id="LOCAL-00001" summary="0.0.0 - Initial&#10;Created a new project &quot;Valantis&quot;&#10;Added index.html&#10;Added styles.css&#10;Added script.js">
       <option name="closed" value="true" />
@@ -191,7 +189,31 @@
       <option name="project" value="LOCAL" />
       <updated>1710029464068</updated>
     </task>
-    <option name="localTasksCounter" value="16" />
+    <task id="LOCAL-00016" summary="0.0.15&#10;In index.html - Added paginatorLoading and changed some text.">
+      <option name="closed" value="true" />
+      <created>1710105515553</created>
+      <option name="number" value="00016" />
+      <option name="presentableId" value="LOCAL-00016" />
+      <option name="project" value="LOCAL" />
+      <updated>1710105515553</updated>
+    </task>
+    <task id="LOCAL-00017" summary="0.0.16&#10;In styles.css - Added style for paginatorLoading.">
+      <option name="closed" value="true" />
+      <created>1710105554863</created>
+      <option name="number" value="00017" />
+      <option name="presentableId" value="LOCAL-00017" />
+      <option name="project" value="LOCAL" />
+      <updated>1710105554863</updated>
+    </task>
+    <task id="LOCAL-00018" summary="0.1.0 - Release">
+      <option name="closed" value="true" />
+      <created>1710105615857</created>
+      <option name="number" value="00018" />
+      <option name="presentableId" value="LOCAL-00018" />
+      <option name="project" value="LOCAL" />
+      <updated>1710105615857</updated>
+    </task>
+    <option name="localTasksCounter" value="19" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -224,6 +246,9 @@
     <MESSAGE value="0.0.11&#10;To script.js - Added waitingLogin function, added &quot;Accept&quot;: &quot;application/json&quot; and mode: &quot;cors&quot; to generateLoginOptions function, added finalizeData function, changed getData and addData functions. Added checkMinMax and cleanMemory functions, changed nextPage and prevPage and logOut functions." />
     <MESSAGE value="0.0.12&#10;To script.js - Added parameters to generateDataOptions function." />
     <MESSAGE value="0.0.13&#10;In script.js - Added errorCount and errorCache variables. Added errorsHandler function. Changed: checkSession, logIn, generateTimeStamp, getIDs, getData functions." />
-    <option name="LAST_COMMIT_MESSAGE" value="0.0.13&#10;In script.js - Added errorCount and errorCache variables. Added errorsHandler function. Changed: checkSession, logIn, generateTimeStamp, getIDs, getData functions." />
+    <MESSAGE value="0.0.15&#10;In index.html - Added paginatorLoading and changed some text." />
+    <MESSAGE value="0.0.16&#10;In styles.css - Added style for paginatorLoading." />
+    <MESSAGE value="0.1.0 - Release" />
+    <option name="LAST_COMMIT_MESSAGE" value="0.1.0 - Release" />
   </component>
 </project>
