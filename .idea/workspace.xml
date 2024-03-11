@@ -4,8 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="b6dc2e0a-092d-4eff-ad64-84aada240d97" name="Changes" comment="0.1.1&#10;In script.js - Changed generateOptions function to generateOptions class. In checkSession function changed checkResponse, in logIn function changed loginResponse, changed getIDs and getData functions.">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    <list default="true" id="b6dc2e0a-092d-4eff-ad64-84aada240d97" name="Changes" comment="0.1.2&#10;To index.html - Added information to head.">
       <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -67,7 +66,7 @@
       <workItem from="1709979504469" duration="2988000" />
       <workItem from="1710005430875" duration="3145000" />
       <workItem from="1710009891010" duration="64742000" />
-      <workItem from="1710098061954" duration="16384000" />
+      <workItem from="1710098061954" duration="16611000" />
     </task>
     <task id="LOCAL-00001" summary="0.0.0 - Initial&#10;Created a new project &quot;Valantis&quot;&#10;Added index.html&#10;Added styles.css&#10;Added script.js">
       <option name="closed" value="true" />
@@ -221,7 +220,15 @@
       <option name="project" value="LOCAL" />
       <updated>1710114820190</updated>
     </task>
-    <option name="localTasksCounter" value="20" />
+    <task id="LOCAL-00020" summary="0.1.2&#10;To index.html - Added information to head.">
+      <option name="closed" value="true" />
+      <created>1710115342145</created>
+      <option name="number" value="00020" />
+      <option name="presentableId" value="LOCAL-00020" />
+      <option name="project" value="LOCAL" />
+      <updated>1710115342145</updated>
+    </task>
+    <option name="localTasksCounter" value="21" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -258,6 +265,7 @@
     <MESSAGE value="0.0.16&#10;In styles.css - Added style for paginatorLoading." />
     <MESSAGE value="0.1.0 - Release" />
     <MESSAGE value="0.1.1&#10;In script.js - Changed generateOptions function to generateOptions class. In checkSession function changed checkResponse, in logIn function changed loginResponse, changed getIDs and getData functions." />
-    <option name="LAST_COMMIT_MESSAGE" value="0.1.1&#10;In script.js - Changed generateOptions function to generateOptions class. In checkSession function changed checkResponse, in logIn function changed loginResponse, changed getIDs and getData functions." />
+    <MESSAGE value="0.1.2&#10;To index.html - Added information to head." />
+    <option name="LAST_COMMIT_MESSAGE" value="0.1.2&#10;To index.html - Added information to head." />
   </component>
 </project>
